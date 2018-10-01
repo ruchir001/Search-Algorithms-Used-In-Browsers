@@ -2,7 +2,7 @@
 
 THIS PROJECT DEPICTS THE ALGORITHMS USED BY BROWSERS AND MS WORD TO FIND A WORD IN A LARGE TEXT INPUT DATA. 
 THE INPUT DATA USED IS A NOVEL NAMED “THE KITE RUNNER” BY KHALED HOSSEINI. THERE ARE MANY TYPE OF ALGORITHMS AND DATA STRUCTURE USED FOR THIS PURPOSE ONLY. THIS PROJECT IMPLEMENTS INVERTED INDEX DATA STRUCTURE, BOYER MOORE SEARCH ALGORITHM AND RABIN-KARP SEARCH ALGORITHM.
-<pre>
+<pre width="100px">
 <b>BOYER MOORE ALGORITHM</b>
 Boyer-Moore is an algorithm that improves the performance of pattern searching into a text by considering some observations. First of all this algorithm starts comparing the pattern from the leftmost part of text and moves it to the right.
 Unlike other string searching algorithms though, Boyer-Moore compares the pattern against a possible match from right to left as shown below.
